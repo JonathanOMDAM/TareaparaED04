@@ -7,6 +7,7 @@ public class CCuenta {
     private String cuenta;
     private double saldo;
     private double tipoInterés;
+    private String DNI;
 
     public CCuenta()
     {
